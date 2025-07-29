@@ -1,4 +1,4 @@
-
+gunicorn==21.2.0
 amqp==5.3.1
 asgiref==3.8.1
 beautifulsoup4==4.13.4
